@@ -16,4 +16,11 @@
 
 ---
 
+## Notes
+
+### 可嘗試使用的開發工具
++ [amplication](https://github.com/amplication/amplication)
+
+---
+
 ## How to deploy
